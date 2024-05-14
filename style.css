@@ -2,3 +2,12 @@ html {
   height: 100%;
   width: 100%;
 }
+
+.btn-custom {
+  width: 100%;
+}
+
+.selected {
+  background-color: #007bff;
+  color: white;
+}
